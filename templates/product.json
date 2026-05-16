@@ -131,26 +131,201 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "scrolling_text_pNPfzg": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
+        "text": "See the world in style",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#f0f0f0",
+        "text_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_Ane7LP": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_pUAUTj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1778583924_1778504886_phpjds3spplhjvj7b99UY0.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Adjustable Tint Technology",
+            "content": "<p>Experience clear vision in every environment with lenses that adapt to changing light conditions for maximum comfort.</p><h3></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "item_pUAUTj"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "scrolling_text_qBXBG4": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Smart shades for every moment.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#f0f0f0",
+        "text_gradient": ""
+      }
+    },
+    "faq_hnHpnX": {
+      "type": "faq",
+      "blocks": {
+        "item_Wg8g8E": {
+          "type": "item",
+          "settings": {
+            "title": "How does the adjustable tint work?",
+            "content": "<p><br/>The lenses adapt to different lighting conditions, helping reduce glare and improve visibility outdoors.<br/></p>"
+          }
+        },
+        "item_8yizQD": {
+          "type": "item",
+          "settings": {
+            "title": "Are the sunglasses suitable for both men and women?",
+            "content": "<p><br/>Yes, the modern round design is made to suit both men and women.<br/><br/></p>"
+          }
+        },
+        "item_Apj6NA": {
+          "type": "item",
+          "settings": {
+            "title": "Do these sunglasses provide UV protection?",
+            "content": "<p><br/>Yes, the sunglasses offer UV400 protection against harmful sun rays.<br/><br/></p>"
+          }
+        },
+        "item_tK9h6f": {
+          "type": "item",
+          "settings": {
+            "title": "What material is the frame made from?",
+            "content": "<p>The frame is made from durable aluminum alloy for long-lasting comfort and strength.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Wg8g8E",
+        "item_8yizQD",
+        "item_Apj6NA",
+        "item_tK9h6f"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
         "subheading": "",
-        "title": "You may also like",
+        "title": "FAQ's",
         "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "slideshow_Pk7FBg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_JgDLTQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1778583924_6c2088429968ff412a937e8d513d68821b87554c.gif",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_JgDLTQ"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_HnL6DC": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_7ffkaP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1778583924_1778504885_phpfgmj8mc5b8s41kCl6gP.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Premium Style & Protection",
+            "content": "<p>Designed with a durable aluminum frame and UV400 protection to keep you stylish while protecting your eyes outdoors.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7ffkaP"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "17789057653ac76002": {
@@ -181,7 +356,12 @@
   },
   "order": [
     "main",
-    "related-products",
+    "scrolling_text_pNPfzg",
+    "images_with_text_scrolling_Ane7LP",
+    "scrolling_text_qBXBG4",
+    "images_with_text_scrolling_HnL6DC",
+    "slideshow_Pk7FBg",
+    "faq_hnHpnX",
     "17789057653ac76002"
   ]
 }
